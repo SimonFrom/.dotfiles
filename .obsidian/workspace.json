@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "36859707214a1dec",
+    "type": "split",
+    "children": [
+      {
+        "id": "07cae3b2d76187b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "141f4e19d8a9f406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datamatiker/Valgfag - 4 semester/Machine Learning/Pandas/DataFrame.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DataFrame"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f4e5b090d51bfdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "07a867d7bb08d4d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "964736ce3377cbb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4de29ce45c570407",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4875abc6f22a43f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ae9221ef4821115",
+    "type": "split",
+    "children": [
+      {
+        "id": "202331205a41ae6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c3e774a8ca00766",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "0c24cfffe5aa1776",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Datamatiker/Valgfag - 4 semester/Machine Learning/Pandas/DataFrame.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DataFrame"
+            }
+          },
+          {
+            "id": "2cecf9f084640ab2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Datamatiker/Valgfag - 4 semester/Machine Learning/Pandas/DataFrame.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DataFrame"
+            }
+          },
+          {
+            "id": "d04f13f68418d2fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "86dbcfc199db47d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "36af4920439f2fe3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Datamatiker/Valgfag - 4 semester/Machine Learning/Pandas/DataFrame.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DataFrame"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "141f4e19d8a9f406",
+  "lastOpenFiles": [
+    "Datamatiker/Valgfag - 4 semester/Machine Learning/Lærings mål.md",
+    "Datamatiker/Valgfag - 4 semester/Machine Learning/Links.md",
+    "Datamatiker/Valgfag - 4 semester/Machine Learning/Pandas/Generalt.md",
+    "Datamatiker/Valgfag - 4 semester/Machine Learning/Pandas/DataFrame.md",
+    "Datamatiker/Rider filer/Appsettings.md",
+    "Datamatiker/Systemudvikling - Virksomheden/Domænemodeller/Domænemodeller.md",
+    "Datamatiker/Hjemmeprojekter/Fuel Calculator.md",
+    "Datamatiker/Linux/CheatSheet.md"
+  ]
+}
